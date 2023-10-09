@@ -33,3 +33,5 @@ new_csv_file <- "galaxies_cleaned.csv"
 cat(comma_separated_values_with_names, sep = "\n", file = new_csv_file)
 
 galaxies <- read_csv(new_csv_file)
+
+# Problem 3: Plot 
