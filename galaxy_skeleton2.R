@@ -36,4 +36,4 @@ galaxies <- read_csv(new_csv_file)
 
 # Problem 3: Plot
 
-# I do not fully understand what the values in the dataframe means, there I did not manage to complete this problem
+# I do not fully understand what the values in the dataframe means.Therefore I did not manage to complete this problem.
