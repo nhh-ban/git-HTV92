@@ -1,8 +1,8 @@
 
-# Skeleton file 2 for Assignment 1 in BAN400.
+# Skeleton file 2 for Assignment 1 in BAN400. Solution based on this skeleton file
 # -------------------------------------------
-
-# More detailed steps to complete Problem 1.
+# I assume the primary purpose of this task is to get started with Git and github
+# More detailed steps to complete Problem 2.
 # Solution developed using Posit Cloud (formerly known as RStudio Cloud). I like the cloud cause it provides a good way to manage projects and provides stable handling of library installation.
 
 # Problem 2: Data Wrangling - galaxies dataset
@@ -34,4 +34,6 @@ cat(comma_separated_values_with_names, sep = "\n", file = new_csv_file)
 
 galaxies <- read_csv(new_csv_file)
 
-# Problem 3: Plot 
+# Problem 3: Plot
+
+# I do not fully understand what the values in the dataframe means, there I did not manage to complete this problem
