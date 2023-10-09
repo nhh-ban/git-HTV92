@@ -5,6 +5,8 @@
 # More detailed steps to complete Problem 1.
 # Solution developed using Posit Cloud (formerly known as RStudio Cloud). I like the cloud cause it provides a good way to manage projects and provides stable handling of library installation.
 
+# Problem 2: Data Wrangling - galaxies dataset
+
 library(tidyverse)    # Contains most of what we need.
 
 # Read the entire data file into memory using the readLines()-function. Use the
